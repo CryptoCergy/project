@@ -1,6 +1,13 @@
 Our program can compute P(N), Q(N) and P(N,m) according to our notations.
 
 
+First of all : You have to create a directory called "include" which contains all the *h files to build this project. The .c files have to be in the parent directory.
+
+So we have : 
+-> Project :
+*.c file
+include/*.h files
+
 
 -- Structure of the program -----------------------
 
