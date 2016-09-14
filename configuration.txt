@@ -1,0 +1,24 @@
+
+; CONFIGURATION_FILE
+; Here we can choose the values used into the program.
+;
+
+; A regler pour que MAX_REL*PROC >= 4*PHI*K
+MAX_REL = 3
+PROC = 64
+
+MAX_EGALITES = 400
+MAX_NON_EGALITES = 400
+MAX_SYS = 310
+MAXSYSAFF = 100
+MAX_PART = 203
+MAX_d=36
+MAX_PHI = 8
+
+
+
+; Do not modify this value.
+;
+; If needed, you also have to modify this value in the file "include/common.h"
+MAX_DEG = 200
+
