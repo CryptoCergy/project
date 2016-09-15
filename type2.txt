@@ -1,0 +1,9 @@
+SIZE_SCHEMA = 2
+K = 4 
+PHI = 2
+FEISTEL_TYPE = 3
+D = 24
+
+I1(1)+I1(2)=0
+S2(1)+S2(2)+I2(1)+I2(2)=0
+
